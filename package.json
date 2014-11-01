@@ -1,13 +1,8 @@
 {
-  "name": "cms-plugin-routeList",
+  "name": "cms-plugin-foot",
   "version": "0.0.0",
-  "route": {
-    "name": "routeList",
-    "title": "routeList",
-    "path": "routeList"
-  },
   "main": [
-    "app/scripts/RouteList.js"
+    "app/scripts/Foot.js"
   ],
   "dependencies": {
     "coffee-script": "~1.8.0",
